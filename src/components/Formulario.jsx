@@ -7,7 +7,7 @@ const Formulario = ({guardarCategoria}) => {
     const OPCIONES = [
         {value:'general', label:'General'},
         {value:'business', label:'Negocios'},
-        {value:'entertaiment', label:'Entretenimiento'},
+        {value:'entertainment', label:'Entretenimiento'},
         {value:'health', label:'Salud'},
         {value:'science', label:'Ciencias'},
         {value:'sports', label:'Deportes'},
